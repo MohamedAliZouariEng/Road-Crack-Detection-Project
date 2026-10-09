@@ -1,0 +1,5 @@
+venv/
+Road Crack/
+*.zip
+.ipynb_checkpoints/
+__pycache__/
